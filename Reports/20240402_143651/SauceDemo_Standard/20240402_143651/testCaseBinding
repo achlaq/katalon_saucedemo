@@ -1,0 +1,6 @@
+{"testCaseName":"Test Cases/Login","testCaseId":"Test Cases/Login","iterationVariableName":"","bindedValues":{"password":"\u0027qcu24s4901FyWDTwXGr6XA\u003d\u003d\u0027","username":"\u0027standard_user\u0027"}}
+{"testCaseName":"Test Cases/Login","testCaseId":"Test Cases/Login","iterationVariableName":"","bindedValues":{"password":"\u0027qcu24s4901FyWDTwXGr6XA\u003d\u003d\u0027","username":"\u0027locked_out_user\u0027"}}
+{"testCaseName":"Test Cases/Login","testCaseId":"Test Cases/Login","iterationVariableName":"","bindedValues":{"password":"\u0027qcu24s4901FyWDTwXGr6XA\u003d\u003d\u0027","username":"\u0027error_user\u0027"}}
+{"testCaseName":"Test Cases/Add to Cart","testCaseId":"Test Cases/Add to Cart","iterationVariableName":""}
+{"testCaseName":"Test Cases/Checkout","testCaseId":"Test Cases/Checkout","iterationVariableName":""}
+{"testCaseName":"Test Cases/Logout","testCaseId":"Test Cases/Logout","iterationVariableName":""}
