@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SauceDemo_LockedOut,Chrome 123.0.0.0,,,02-04-2024 15:17:48,02-04-2024 15:17:55,7.569s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 123.0.0.0,,,02-04-2024 15:17:48,02-04-2024 15:17:55,6.943s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,02-04-2024 15:17:49,02-04-2024 15:17:52,2.792s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 123.0.0.0,,,02-04-2024 15:17:52,02-04-2024 15:17:52,0.626s,PASSED
+"setText(findTestObject(""Object Repository/SauceDemo/Page_Swag Labs/input_Swag Labs_user-name""), username)",Chrome 123.0.0.0,,,02-04-2024 15:17:52,02-04-2024 15:17:54,2.080s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/SauceDemo/Page_Swag Labs/input_Swag Labs_password""), password)",Chrome 123.0.0.0,,,02-04-2024 15:17:54,02-04-2024 15:17:55,0.487s,PASSED
+"click(findTestObject(""Object Repository/SauceDemo/Page_Swag Labs/input_Swag Labs_login-button""))",Chrome 123.0.0.0,,,02-04-2024 15:17:55,02-04-2024 15:17:55,0.430s,PASSED
