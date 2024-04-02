@@ -20,7 +20,7 @@
          <combinationType>ONE</combinationType>
          <id>1f294043-cdaf-4d66-b926-1775bf0930e6</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
+            <iterationType>SPECIFIC</iterationType>
             <value>1</value>
          </iterationEntity>
          <testDataId>Data Files/SauceDemo_Account</testDataId>
